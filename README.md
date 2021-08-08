@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bpsourav21
 - 👀 I’m interested in ReactJS, React Native, NodeJS, and some exclusive tech stack
-- 🌱 I’m currently learning on F#, Pythond for AI
+- 🌱 I’m currently learning on F#, Python for AI
 - 💞️ I’m looking to collaborate on ReactJS and  React Native related project
 - 📫 How to reach me - Shoot email on bpsourav21@gmail.com
 
